@@ -1,0 +1,103 @@
+{
+  "dataset": "fantineh/next-day-wildfire-spread",
+  "source": "Kaggle datasets files API; metadata only",
+  "file_count": 19,
+  "total_uncompressed_bytes": 3955889585,
+  "files": [
+    {
+      "name": "next_day_wildfire_spread_eval_00.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.301000"
+    },
+    {
+      "name": "next_day_wildfire_spread_eval_01.tfrecord",
+      "size": "187075501",
+      "creationDate": "2021-11-17 20:36:29.407000"
+    },
+    {
+      "name": "next_day_wildfire_spread_test_00.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.357000"
+    },
+    {
+      "name": "next_day_wildfire_spread_test_01.tfrecord",
+      "size": "146972657",
+      "creationDate": "2021-11-17 20:36:26.899000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_00.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.328000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_01.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.406000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_02.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.216000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_03.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.068000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_04.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:29.901000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_05.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.301000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_06.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.106000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_07.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:32.836000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_08.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.301000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_09.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.265000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_10.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.131000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_11.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:30.594000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_12.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:34.119000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_13.tfrecord",
+      "size": "213313000",
+      "creationDate": "2021-11-17 20:36:34.952000"
+    },
+    {
+      "name": "next_day_wildfire_spread_train_14.tfrecord",
+      "size": "208833427",
+      "creationDate": "2021-11-17 20:36:35.111000"
+    }
+  ]
+}
